@@ -1,0 +1,6 @@
+{
+  "name": "UrbanRide - Plataforma de Viajes en Tiempo Real",
+  "description": "Aplicación estilo Uber/Cabify con mapas interactivos Leaflet, ruteo OSRM en tiempo real, seguimiento GPS de choferes, estimación de distancia/tiempo y Centro de Control 24/7.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
